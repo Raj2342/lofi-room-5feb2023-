@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./background.imgage.jpeg);
+
+}
+
+.header{
+     display: flex;
+     background-color: #111010;
+     gap: 100px;
+     height: 100px;
+
+
+}
+
+.menu{
+   display: flex;
+   gap: 50px;
+   list-style: none;
+    color: white;
+    margin-top: 30px;
+}
+
+.button{
+    color: white;
+    background-color: #ea17cb;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 750px;
+}
+
+.logo{
+    height: 30px;
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+section{
+    padding: 150px;
+    margin-left: 410px;
+    font-size: 50px;
+    color: white;
+}
+.small-para{
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.hero-btn{
+    background-color: purple;
+    color: white;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 250px;
+    font-weight: 900px;
+}
